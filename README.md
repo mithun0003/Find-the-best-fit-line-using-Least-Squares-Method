@@ -47,7 +47,7 @@ print(Y_pred)
 plt.scatter(X,Y,color='blue')
 plt.plot(X,Y_pred,color='yellow') 
 plt.show() 
-
+```
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/1448efbe-809b-4a84-9dd0-927875ec823f)
