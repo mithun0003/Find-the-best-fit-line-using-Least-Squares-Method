@@ -9,15 +9,18 @@ Algorithm:
 
 1. Get the independent variable X and dependent variable Y.
 2. Calculate the mean of the X -values and the mean of the Y -values.
-3. Find the slope m of the line of best fit using the formula. 
+3. Find the slope m of the line of best fit using the formula.
+
+
 ![image](https://github.com/user-attachments/assets/897b897f-57cb-494b-a9ae-e3570c365025)
 
-4. Compute the y -intercept of the line by using the formula:
-5. 
+5. Compute the y -intercept of the line by using the formula:
+
+
 ![image](https://github.com/user-attachments/assets/f9b8d198-5361-4063-82af-f607fb4e7a7d)
 
-6. Use the slope m and the y -intercept to form the equation of the line.
-7. Obtain the straight line equation Y=mX+b and plot the scatterplot.
+7. Use the slope m and the y -intercept to form the equation of the line.
+8. Obtain the straight line equation Y=mX+b and plot the scatterplot.
 
 ## Program:
 ```
