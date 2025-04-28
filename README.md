@@ -24,6 +24,7 @@ Algorithm:
 Program to implement univariate Linear Regression to fit a straight line using least squares.
 Developed by:MITHUN G
 RegisterNumber:212223080030
+```
 import numpy as np
 import matplotlib.pyplot as plt
 X=np.array(eval(input()))
